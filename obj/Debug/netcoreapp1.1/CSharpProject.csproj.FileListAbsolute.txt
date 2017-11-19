@@ -1,0 +1,8 @@
+/Users/hamill/Desktop/CSharpProject/bin/Debug/netcoreapp1.1/CSharpProject.deps.json
+/Users/hamill/Desktop/CSharpProject/bin/Debug/netcoreapp1.1/CSharpProject.runtimeconfig.json
+/Users/hamill/Desktop/CSharpProject/bin/Debug/netcoreapp1.1/CSharpProject.runtimeconfig.dev.json
+/Users/hamill/Desktop/CSharpProject/bin/Debug/netcoreapp1.1/CSharpProject.dll
+/Users/hamill/Desktop/CSharpProject/bin/Debug/netcoreapp1.1/CSharpProject.pdb
+/Users/hamill/Desktop/CSharpProject/obj/Debug/netcoreapp1.1/CSharpProject.AssemblyInfo.cs
+/Users/hamill/Desktop/CSharpProject/obj/Debug/netcoreapp1.1/CSharpProject.dll
+/Users/hamill/Desktop/CSharpProject/obj/Debug/netcoreapp1.1/CSharpProject.pdb
